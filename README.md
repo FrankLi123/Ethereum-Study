@@ -1,4 +1,4 @@
-# EthereumStudy
+# Ethereum-Study
 This repo is for the practice projects with Ethereum.
 
 Project List:
